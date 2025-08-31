@@ -1,5 +1,11 @@
 # dev-starter-webflow
 
+## 0.3.0
+
+### Minor Changes
+
+- a49b1e7: Change number to #100
+
 ## 0.2.1
 
 ### Patch Changes
