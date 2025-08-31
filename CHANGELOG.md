@@ -1,5 +1,11 @@
 # dev-starter-webflow
 
+## 0.3.1
+
+### Patch Changes
+
+- 257f467: Designers tagline added
+
 ## 0.3.0
 
 ### Minor Changes
